@@ -1,4 +1,2 @@
 Test project java
-calculator
-
-#java
+Test task - calculator for Java
